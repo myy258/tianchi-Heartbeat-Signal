@@ -1,2 +1,2 @@
 # tianchi-Heartbeat-Signal
-天池心跳信号分类
+使用CNN进行分类，平均指标abs-sum在208。
